@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="545cac80-7b51-4e60-84d5-ff85980e53fd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +32,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/laptop/Documents/GitHub/Codingwithdinu"
+    "last_opened_file_path": "/Users/laptop/Documents/GitHub/Codingwithdinu",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
